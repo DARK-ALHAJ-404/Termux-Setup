@@ -1,7 +1,6 @@
 # Termux-Setup
 # DARK-ALHAJ
 
-<> rm -rf 2K-MEMBER
 
 <> git clone https://github.com/DARK-ALHAJ-404/Termux-Setup.git
 
